@@ -43,7 +43,7 @@ campaignTrail_temp.questions_json = [
         "pk": 70005,
         "fields": {
             "priority": 5,
-            "description": "[Feb. 1999] Unfortunately, any efforts at making nice with the House Republicans have gone out the window, as hardline conservatives are drafting articles of impeachment against Cuomo for alleged corruption, and Hastert is on the verge of losing control of his caucus. What are your thoughts on this?",
+            "description": "[Feb. 1999] Unfortunately, any efforts at making nice with the House Republicans have gone out the window, as hardline conservatives are drafting articles of impeachment against Cuomo for alleged corruption, citing reports that his son Andrew used his father’s name to get ahead in business dealings. Hastert is on the verge of losing control of his caucus. What are your thoughts on this?",
             "likelihood": 1.0
         }
     },
