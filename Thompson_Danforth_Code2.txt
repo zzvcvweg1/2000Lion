@@ -37565,9 +37565,9 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         }
     }
 ];campaignTrail_temp.candidate_image_url = 'https://file.garden/aNtjn2887DiA_8HP/gwgwewe%20(2).png';
-campaignTrail_temp.running_mate_image_url = 'https://i.postimg.cc/6QVdpMZx/johnengler.jpg';
+campaignTrail_temp.running_mate_image_url = 'https://i.postimg.cc/SNzVp7gC/johndanforth.jpg';
 campaignTrail_temp.candidate_last_name = 'Thompson';
-campaignTrail_temp.running_mate_last_name = 'Engler';
+campaignTrail_temp.running_mate_last_name = 'Danforth';
 const style_overwrite = document.createElement("style");
 style_overwrite.innerHTML = 
 `#campaign_sign {
