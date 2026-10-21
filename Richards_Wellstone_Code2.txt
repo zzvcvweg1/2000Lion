@@ -56274,9 +56274,9 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         }
     }
 ];campaignTrail_temp.candidate_image_url = 'https://i.postimg.cc/T1cmBkvs/gwgwewe.jpg';
-campaignTrail_temp.running_mate_image_url = 'https://i.postimg.cc/ncZ4DY3B/johnkerry.jpg';
+campaignTrail_temp.running_mate_image_url = 'https://i.postimg.cc/FFqRt9Lc/paulwellstone.jpg';
 campaignTrail_temp.candidate_last_name = 'Richards';
-campaignTrail_temp.running_mate_last_name = 'Kerry';
+campaignTrail_temp.running_mate_last_name = 'Wellstone';
 const style_overwrite = document.createElement("style");
 style_overwrite.innerHTML = 
 `#campaign_sign {
