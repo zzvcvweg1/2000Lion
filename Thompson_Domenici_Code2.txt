@@ -35,7 +35,7 @@ campaignTrail_temp.questions_json = [
         "pk": 71004,
         "fields": {
             "priority": 4,
-            "description": "[Feb. 1999] Conservative House Republicans are now clamoring to impeach President Cuomo, and some have begun drafting articles of impeachment, using his close ties to his family as grounds to charge him with corruption. Do you support this movement?",
+            "description": "[Feb. 1999] Conservative House Republicans are now clamoring to impeach President Cuomo, and some have begun drafting articles of impeachment, citing reports that his son Andrew used his father’s name to get ahead in business dealings as grounds to charge the President with corruption. Do you support this movement?",
             "likelihood": 1.0
         }
     },
