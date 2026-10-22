@@ -1524,7 +1524,7 @@ campaignTrail_temp.questions_json = [
         "pk": 80123,
         "fields": {
             "question": 70034,
-            "description": "Let’s see if we can get John to assure my progressive friends that I am not fixin’ to let President Cuomo’s achievements get turned to dust by these Gingrichites and right wing reactionaries. I’m pledgin’ to uphold and build on everything we’ve worked towards in the ‘90s."
+            "description": "Let’s see if we can get Paul to assure my progressive friends that I am not fixin’ to let President Cuomo’s achievements get turned to dust by these Gingrichites and right wing reactionaries. I’m pledgin’ to uphold and build on everything we’ve worked towards in the ‘90s."
         }
     },
     {
